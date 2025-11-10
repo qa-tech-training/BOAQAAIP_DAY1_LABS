@@ -18,7 +18,6 @@ By the end of this lab, you will have:
 ##### Configuring VSCode
 1. Open VSCode from the Windows Search bar. VSCode is a popular, flexible multi-language IDE which provides an extensive ecosystem of _extensions_ for enabling wider integrations
 2. Open the extensions tab from the VSCode side menu  
-![VSCode extensions icon](image.png)
 3. Search for and install the 'WSL' extension. Wait for it to install, then close and relaunch VSCode to ensure the extension is activated
 
 ##### Connecting to WSL
